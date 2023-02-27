@@ -5,5 +5,11 @@
   "private": true,
   "devDependencies": {
     "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "ts-pattern": "^4.2.1"
+  },
+  "prettier": {
+    "singleQuote": true
   }
 }
